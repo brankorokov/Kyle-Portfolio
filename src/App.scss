@@ -1,0 +1,18 @@
+$primary-color: #AEF3E7;
+
+@import 'animate.css';
+
+@font-face{
+    font-family: 'Helveitca Neue';
+    src: url('./assets/fonts/helveticaneue.ttf') format('ttf');
+}
+
+@font-face{
+    font-family: 'Swansea';
+    src: url('./assets/fonts/swansea.ttf') format('ttf');
+}
+
+input,
+textarea{
+    font-family: 'Helvetica Neue';
+}
